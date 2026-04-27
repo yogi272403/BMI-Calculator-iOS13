@@ -10,8 +10,6 @@ This repository contains my submission for Part 2 of the R2L Lab onboarding quiz
 * `requirements.txt`: Python dependencies.
 * `README.md`: Project documentation and analysis.
 
-*(Note: The `datasets/` and `results/` directories are intentionally omitted from this repository and will be generated automatically when running the scripts).*
-
 ## Setup & Execution
 
 ### 1. Environment Setup
