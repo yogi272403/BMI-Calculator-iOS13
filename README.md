@@ -1,5 +1,4 @@
-```markdown
-# R2L Lab Onboarding: Part 2 - Implementation Challenge
+## R2L Lab Onboarding: Part 2 - Implementation Challenge
 
 This repository contains my submission for Part 2 of the R2L Lab onboarding quiz. It implements both a sparse (BM25) and dense (bi-encoder + FAISS) retrieval pipeline evaluated on the BEIR SciFact dataset.
 
